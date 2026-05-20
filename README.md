@@ -1,3 +1,7 @@
+## Download
+
+Latest binaries: [Releases](https://github.com/nivemoon/PPT-FFN/releases/latest)
+
 # PPT-FFN
 Global push-to-talk for default microphone on Windows (C, WinAPI).
 ## Implementation details
